@@ -8,9 +8,12 @@ terminal.
 - Turn Allow less secure apps to ON. Be aware that this makes it easier for others to gain access to your account.(https://myaccount.google.com/lesssecureapps)
 
 # Dependencies 
--pip install pyinputplus - user input validation 
--pip install smtplib (Thia package should be already available when python is downloaded)
+-pip install pyinputplus - user input validation
+
+-pip install smtplib (This package should be already available when python is downloaded)
+
 -email.mime.multipart 
+
 -email.mime.text
 
 
